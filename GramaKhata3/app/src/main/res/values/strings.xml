@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grama-Khata</string>
+    <string name="tagline">Your Digital Village Ledger</string>
+    <string name="total_due">Total Due</string>
+    <string name="add_customer">Add Customer</string>
+    <string name="search_hint">Search customers…</string>
+    <string name="share_report">Daily Report</string>
+    <string name="give_credit">Give Credit (+)</string>
+    <string name="take_payment">Receive Payment (-)</string>
+    <string name="send_reminder">Remind on WhatsApp</string>
+    <string name="no_customers">No customers yet.\nTap + to add your first customer!</string>
+    <string name="no_transactions">No transactions yet.\nTap Give Credit or Receive Payment to start.</string>
+    <string name="sms_reminder">Send SMS Reminder</string>
+    <string name="whatsapp_reminder">Send WhatsApp Reminder </string>
+    <string name="edit_customer">Edit Customer</string>
+    <string name="update">Update</string>
+    <string name="update_details">Update Details</string>
+    <string name="delete_customer_title">Delete Customer?</string>
+    <string name="delete_customer_msg">All transactions for this customer will be permanently removed. This cannot be undone.</string>
+    <string name="customer_deleted">Customer deleted</string>
+    <string name="customer_updated">Customer updated</string>
+    <string name="invalid_details">Invalid details</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+</resources>
