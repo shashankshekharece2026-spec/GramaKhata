@@ -1,7 +1,8 @@
 # 📒 Grama-Khata — Digital Village Ledger
 
 **Student:** Shashank Shekhar | **USN:** 1OX22EC096
-*Original File*
+
+Original File
 ---
 
 ## 🚀 How to Open in Android Studio
